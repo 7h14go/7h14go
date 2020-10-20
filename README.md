@@ -16,6 +16,8 @@ These are some of the technologies and tools that I work and study with:
 
 ##### Thank you for your visit and see you soon!   [![HitCount](http://hits.dwyl.com/7h14go/7h14go.svg)](http://hits.dwyl.com/7h14go/7h14go)
 
+![](https://komarev.com/ghpvc/?username=7h14go)
+
 <!--
 **7h14go/7h14go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
