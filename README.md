@@ -1,5 +1,6 @@
 ### Hello! Welcome to my profile 👋
-I'm Thiago, and I'm a business analyst. I'm from Brazil, and I'm currently living in Espirito Santo.
+🔭 I'm Thiago, and I'm a business analyst.
+📫 I'm from Brazil, and I'm currently living in Espirito Santo.
 
 ### Technologies ⚡
 These are some of the technologies and tools that I work and study with:
