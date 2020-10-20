@@ -12,9 +12,9 @@ These are some of the technologies and tools that I work and study with:
 
 
 
-###### Loading... some awesome ideas to go here, check back again in some time
+#### Loading... some awesome ideas to go here, check back again in some time...
 
-##### Thank you for your visit and see you soon!.................. ![](https://komarev.com/ghpvc/?username=7h14go&color=008B8B&label=Views)
+##### Thank you for your visit and see you soon!.............................................................. ![](https://komarev.com/ghpvc/?username=7h14go&color=008B8B&label=Views)
 
 
 
